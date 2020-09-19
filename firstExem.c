@@ -6,6 +6,7 @@
 
 int main(int argc, char* argv[] ){
 
+  print("Hello.c\n");
   return 0;
   
 }
